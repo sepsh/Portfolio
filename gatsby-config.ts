@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteHeadline: `Portfolio - Web Developer`,
     siteUrl: `https://sepsh.ir`,
     siteDescription: `Web-Developer Open-Source Enthusiast`,
-    siteImage: `/banner.jpg`,
+    siteImage: `https://en.gravatar.com/userimage/213678836/28706d9ab8bcec9980c9cbc42b349388.jpeg`,
     author: `@sepsh`,
   },
   trailingSlash: `never`,
